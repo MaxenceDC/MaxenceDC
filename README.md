@@ -1,4 +1,4 @@
-# Welcome to my GitHub Profile
+# Welcome to my GitHub Profile!
 
 Hi. I'm *Maxence*, a **French** 🇫🇷 developer with a passion for **Space** 🌌, **Mathematics** 🧮 and **Computer Science** 🧑‍💻 in general. I love problem solving!
 
