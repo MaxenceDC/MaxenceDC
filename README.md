@@ -1,16 +1,18 @@
-# Welcome to my GitHub Profile!
+# Welcome to my GitHub Profile
 
-Hi. I'm *Maxence*, a French developer with a passion for **Space**, **Mathematics** and **Computer Science** in general. I love problem solving!
+Hi. I'm *Maxence*, a **French** 🇫🇷 developer with a passion for **Space** 🌌, **Mathematics** 🧮 and **Computer Science** 🧑‍💻 in general. I love problem solving!
 
-My favorite programming language is **Rust**, but I know how to code in Java, C++, Python, JavaScript and I'm learning APL.
+My favorite programming language is **Rust** 🚀, but I know how to use Java, C++, Python, JavaScript, HTML and I am learning APL.
 Feel free to discover my projects in the ["Repositories"](https://github.com/ElMaxonDSCRD?tab=repositories) tab!
 
-## My Statistics
+## Statistics
 
-[![My Github Statistics](https://github-readme-stats.vercel.app/api?username=MaxenceDC&show_icons=true&title_color=F09383&text_color=FAB28E&icon_color=E95379&hide_border=true&bg_color=1C1E2688&border_radius=32px&include_all_commits=true&custom_title=My%20GitHub%20Statistics:)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My Languages
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxenceDC&show_icons=true&title_color=F09383&text_color=FAB28E&icon_color=E95379&hide_border=true&bg_color=1C1E2688&border_radius=32px&include_all_commits=true&custom_title=My GitHub Statistics:"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceDC&title_color=F09383&text_color=FAB28E&icon_color=E95379&hide_border=true&bg_color=1C1E2688&border_radius=32px&custom_title=The Languages I Use The Most:" align="right"/>
+</div>
+  
 ## My Projects
 
-Currently, I'm trying to solve the majority of challenges in 
+Currently, I am trying to solve the majority of the challenges proposed in [this repository](https://github.com/MaxenceDC/ProgrammingChallenges).
+I am also working on the website of my [local college's newspaper](https://github.com/LeLyceen)!
