@@ -3,7 +3,7 @@
 Hi. I'm *Maxence*, a **French** 🇫🇷 developer with a passion for **Space** 🌌, **Mathematics** 🧮, **Aviation** 🛩 and **Computer Science** 🧑‍💻 in general. I love problem solving!
 
 My favorite programming language is **Rust** 🚀, but I know how to use Java, C++, Python, JavaScript (but mostly TypeScript), HTML+CSS and I am learning APL.
-Feel free to discover my projects in the "[Repositories]"(https://github.com/ElMaxonDSCRD?tab=repositories) tab!
+Feel free to discover my projects in the "[Repositories](https://github.com/ElMaxonDSCRD?tab=repositories)" tab!
 
 ## Statistics
 
