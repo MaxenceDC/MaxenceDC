@@ -8,8 +8,9 @@ Feel free to discover my projects in the ["Repositories"](https://github.com/ElM
 ## Statistics
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxenceDC&show_icons=true&title_color=F09383&text_color=FAB28E&icon_color=E95379&hide_border=true&bg_color=1C1E2688&border_radius=32px&include_all_commits=true&custom_title=My GitHub Statistics:"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceDC&title_color=F09383&text_color=FAB28E&icon_color=E95379&hide_border=true&bg_color=1C1E2688&border_radius=32px&custom_title=The Languages I Use The Most:" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxenceDC&show_icons=true&title_color=F09383&text_color=FAB28E&icon_color=E95379&hide_border=true&bg_color=1C1E2688&border_radius=32px&include_all_commits=true&custom_title=My%20GitHub%20Statistics:"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxenceDC&title_color=F09383&text_color=FAB28E&icon_color=E95379&hide_border=true&bg_color=1C1E2688&border_radius=32px&custom_title=My%20Languages%20:" align="right" height="335"/>
+    <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=maxencedc&show_icons=true&title_color=F09383&text_color=FAB28E&icon_color=E95379&hide_border=true&bg_color=1C1E2688&border_radius=32px&custom_title=My%20Recent%20Activity:"/>
 </div>
   
 ## My Projects
