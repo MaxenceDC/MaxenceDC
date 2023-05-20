@@ -15,5 +15,4 @@ Feel free to discover my projects in the <kbd>[Repositories](https://github.com/
   
 ## My Projects
 
-Currently, I am trying to solve the majority of the challenges proposed in [this repository](https://github.com/MaxenceDC/ProgrammingChallenges).
-I am also working on the website of my [local college's newspaper](https://github.com/LeLyceen)!
+Currently, I am trying to solve the majority of the challenges proposed in [this repository](https://github.com/MaxenceDC/ProgrammingChallenges)!
