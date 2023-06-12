@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile!
 
-Hi. I'm *Maxence*, a **French** 🇫🇷 developer with a passion for **Space** 🌌, **Mathematics** 🧮, **Aviation** 🛩 and **Computer Science** 🧑‍💻 in general. I love problem solving!
+Hi. I'm *Maxence*, a **French** 🇫🇷 developer with a passion for **Space** 🌌, **Mathematics** 🧮, **Aviation** 🛩 and **Computer Science** 🧑‍💻 in general. I love climbing and problem solving!
 
 My favorite programming language is **Rust** 🚀, but I know how to use Java, Python, JavaScript (but mostly TypeScript), HTML+CSS and I am learning APL.
 Feel free to discover my projects in the <kbd>[Repositories](https://github.com/MaxenceDC?tab=repositories)</kbd> tab!
