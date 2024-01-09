@@ -16,4 +16,5 @@ Feel free to discover my projects in the <kbd>[Repositories](https://github.com/
 
 ## My Projects
 
+I'm working on a Minecraft mod called ["Sparse Structures"](https://github.com/MaxenceDC/sparsestructures)
 Currently, I am trying to solve the majority of the challenges proposed in [this repository](https://github.com/MaxenceDC/ProgrammingChallenges)!
