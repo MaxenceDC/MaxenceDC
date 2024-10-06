@@ -2,7 +2,7 @@
 
 Hi. I'm *Maxence*, a **French** 🇫🇷 student with a passion for **Space** 🌌, **Mathematics** 🧮, **Aviation** 🛩 and **Computer Science** 👨‍💻 in general. I love **climbing** 🧗‍♂️ and **problem solving** 🤔!
 
-My favorite programming language is **Rust** 🚀, but I know how to use Java, Python, JavaScript (but mostly TypeScript), HTML+CSS and I am learning OCaml and APL.
+My favorite programming language is **Rust** 🚀, but I know how to code in Java, Python, JavaScript (but mostly TypeScript), HTML+CSS and I am learning OCaml and APL.
 Feel free to discover my projects in the <kbd>[Repositories](https://github.com/MaxenceDC?tab=repositories)</kbd> tab!
 
 ## Statistics
@@ -16,5 +16,5 @@ Feel free to discover my projects in the <kbd>[Repositories](https://github.com/
 
 ## My Projects
 
-I'm working on a Minecraft mod called ["Sparse Structures"](https://github.com/MaxenceDC/sparsestructures)
-Currently, I am trying to solve the majority of the challenges proposed in [this repository](https://github.com/MaxenceDC/ProgrammingChallenges)!
+I'm working on a Minecraft mod called ["Sparse Structures"](https://github.com/MaxenceDC/sparsestructures).  
+When I have the time, I like trying to solve the majority of the challenges proposed in [this repository](https://github.com/MaxenceDC/ProgrammingChallenges)!
