@@ -2,7 +2,7 @@
 
 Hi. I'm *Maxence*, a **French** 🇫🇷 student with a passion for **Space** 🌌, **Mathematics** 🧮, **Aviation** 🛩 and **Computer Science** 👨‍💻 in general. I love **climbing** 🧗‍♂️ and **problem solving** 🤔!
 
-My favorite programming language is **Rust** 🚀, but I know how to code in Java, Python, JavaScript (but mostly TypeScript), HTML+CSS and I am learning OCaml and APL.
+My favorite programming language is **Rust** 🚀, but I know how to code with Java, Python, JavaScript (but mostly TypeScript), HTML+CSS and I am learning OCaml.
 Feel free to discover my projects in the <kbd>[Repositories](https://github.com/MaxenceDC?tab=repositories)</kbd> tab!
 
 ## Statistics
